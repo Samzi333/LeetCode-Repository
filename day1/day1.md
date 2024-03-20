@@ -203,7 +203,6 @@ class Solution {
         return ans;
     }
 }
-//作者：力扣官方题解
 //链接：https://leetcode.cn/problems/search-insert-position/solutions/333632/sou-suo-cha-ru-wei-zhi-by-leetcode-solution/
 ```
 
@@ -724,11 +723,6 @@ class Solution {
 
 返回 p + 1，即为新数组长度。
 
-作者：Max
-链接：https://leetcode.cn/problems/remove-duplicates-from-sorted-array/solutions/34033/shuang-zhi-zhen-shan-chu-zhong-fu-xiang-dai-you-hu/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 
 
 ```
@@ -794,11 +788,6 @@ public int removeDuplicates(int[] nums) {
     }
     return p + 1;
 }
-
-作者：Max
-链接：https://leetcode.cn/problems/remove-duplicates-from-sorted-array/solutions/34033/shuang-zhi-zhen-shan-chu-zhong-fu-xiang-dai-you-hu/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
 
 
@@ -957,11 +946,6 @@ class Solution {
         return ret.toString();
     }
 }
-
-作者：力扣官方题解
-链接：https://leetcode.cn/problems/backspace-string-compare/solutions/451606/bi-jiao-han-tui-ge-de-zi-fu-chuan-by-leetcode-solu/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
 
 复杂度分析
@@ -1035,10 +1019,6 @@ class Solution {
     }
 }
 
-作者：力扣官方题解
-链接：https://leetcode.cn/problems/backspace-string-compare/solutions/451606/bi-jiao-han-tui-ge-de-zi-fu-chuan-by-leetcode-solu/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
 
 
